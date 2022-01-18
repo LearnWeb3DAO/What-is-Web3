@@ -41,11 +41,10 @@ Web3 enhances the web we know today by making it decentralized, distributed, ope
 ---
 
 ### Summary
-Web1: Read :open_book:
+Web1: Read 📖
+Web2: Read-Write 📖🖊️🔑
 
-Web2: Read-Write :open_book: :pen:
-
-Web3: Read-Write-Own :open_book: :pen: :key:
+Web3: Read-Write-Own 📖🖊️🔑
 
 ### Required Reading
 
