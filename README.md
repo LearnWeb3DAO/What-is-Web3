@@ -73,3 +73,5 @@ Web3: Read-Write-Own 📖 🖊️ 🔑
 
 - [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
 ---
+
+<SubmitQuiz />
