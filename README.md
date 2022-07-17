@@ -44,7 +44,7 @@ Web3 enhances the web we know today by making it decentralized, distributed, ope
 - It is getting built such that everything would happen in a decentralized distributed way giving no central authority access to control the system.
 - ‘Open’ as it would be open sourced software built by an open and accessible community of developers and executed in full view of the world.
 - ‘Trustless’ in that the network itself allows participants to interact publicly or privately without a trusted third party.
-- ‘Permissionless’ in that anyone, both users and suppliers,can participate without authorisation from a governing body.
+- ‘Permissionless’ in that anyone, both users and suppliers, can participate without authorisation from a governing body.
 
 <Quiz questionId="e4a38e72-1844-4334-9dd2-515a94ca001d" />
 
